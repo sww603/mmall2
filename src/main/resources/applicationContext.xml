@@ -15,6 +15,5 @@
 
     <aop:aspectj-autoproxy/>
     <import resource="applicationContext-datasource.xml"/>
-    <import resource="applicationContext-spring-session.xml"/>
 
 </beans>

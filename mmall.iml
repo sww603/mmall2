@@ -123,5 +123,32 @@
     <orderEntry type="library" name="Maven: org.xerial.snappy:snappy-java:1.1.1.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-compress:1.8.1" level="project" />
     <orderEntry type="library" name="Maven: org.tukaani:xz:1.5" level="project" />
+    <orderEntry type="module-library">
+      <library name="Maven: com.sun.brace:brace-agent:1.3.11">
+        <CLASSES>
+          <root url="jar://D:/workspace/btrace/build/btrace-agent.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Maven: com.sun.brace:brace-boot:1.3.11">
+        <CLASSES>
+          <root url="jar://D:/workspace/btrace/build/btrace-boot.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Maven: com.sun.brace:brace-client:1.3.11">
+        <CLASSES>
+          <root url="jar://D:/workspace/btrace/build/btrace-client.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

@@ -2,13 +2,7 @@
 
 <html>
 <body>
-<h2>Hello tomcat2!</h2>
-<h2>Hello tomcat2!</h2>
-<h2>Hello tomcat2!</h2>
-
-
-
-springmvc上传文件
+<<input type="text" name="文件" value="">>
 <form name="form1" action="/manage/product/upload.do" method="post" enctype="multipart/form-data">
     <input type="file" name="upload_file" />
     <input type="submit" value="springmvc上传文件" />
